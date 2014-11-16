@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BusTruckerApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- constant link used befor any api -->
+    <string name="link">http://bustracker.alexprosoft.com/</string>
+
+
+    <string name="link_login">User/Login</string> <!-- login (post) -->
+
+    <string name="link_get_organization">Organization/GetAll</string>  <!-- GetAll (get) -->
+
+</resources>
